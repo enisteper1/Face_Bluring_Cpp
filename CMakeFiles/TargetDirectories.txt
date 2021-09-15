@@ -1,0 +1,3 @@
+/home/enis/Opencv_Tutorials/Face_Bluring/CMakeFiles/rebuild_cache.dir
+/home/enis/Opencv_Tutorials/Face_Bluring/CMakeFiles/edit_cache.dir
+/home/enis/Opencv_Tutorials/Face_Bluring/CMakeFiles/blur_faces.dir
